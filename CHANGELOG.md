@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.2.1](https://www.github.com/googleapis/java-aiplatform/compare/v0.2.0...v0.2.1) (2021-02-16)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.18.0 ([#131](https://www.github.com/googleapis/java-aiplatform/issues/131)) ([d56e6ab](https://www.github.com/googleapis/java-aiplatform/commit/d56e6ab0c7022ef508c96ba04330b1926a08088d))
+
 ## [0.2.0](https://www.github.com/googleapis/java-aiplatform/compare/v0.1.0...v0.2.0) (2021-01-07)
 
 
